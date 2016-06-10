@@ -1,0 +1,5 @@
+public/wp
+vendor
+.env
+.idea
+.vagrant
